@@ -4,15 +4,23 @@ PHE3ID is a research team of the Centre International de Recherche en Infectiolo
 
 ## Active members
 
-Jean-Philippe Rasigade, MD-PhD. Team head.
+- Jean-Philippe Rasigade, MD-PhD. Team head.
+- Mélanie Colomb-Cotinat, PharmD. Lead epidemiologist.
+- Natacha Lenuzza, PhD. Applied mathematicien, research engineer.
+- Aurélie Fischer, Msc. Bioinformatician.
+- Malik Talbi, Msc. Bioinformatician, data manager.
 
-Mélanie Colomb-Cotinat, PharmD. Lead epidemiologist.
+## Active projects
 
-Natacha Lenuzza, PhD. Applied mathematicien, research engineer.
+**ResisTrack**
 
-Aurélie Fischer. Bioinformatician.
+**EpiTrack**
 
-Malik Talbi. Bioinformatician.
+**COMEDIA-Lyon**
+
+## Involvement in other projects
+
+**ResTolTB**
 
 <!--
 
