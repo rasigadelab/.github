@@ -1,8 +1,18 @@
-## CIRI
-
 ## Who are we
 
 PHE3ID is a research team of the Centre International de Recherche en Infectiologie of Lyon, FR. We focus or understanding and combating antimicrobial resistance using information methods.
+
+## Active members
+
+Jean-Philippe Rasigade, MD-PhD. Team head.
+
+Mélanie Colomb-Cotinat, PharmD. Lead epidemiologist.
+
+Natacha Lenuzza, PhD. Applied mathematicien, research engineer.
+
+Aurélie Fischer. Bioinformatician.
+
+Malik Talbi. Bioinformatician.
 
 <!--
 
