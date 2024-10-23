@@ -23,7 +23,7 @@ data relevant to antimicrobial resistance at the local scale of the Lyon Metropo
 
 ## Involvement in other projects
 
-**ResTolTB**
+[**ResTolTB**](https://anr.fr/Project-ANR-22-CE15-0027) investigates the roles and dynamics of genetically encoded drug tolerance in drug resistance emergence in Mycobacterium tuberculosis
 
 <!--
 
