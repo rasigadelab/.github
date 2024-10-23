@@ -1,8 +1,8 @@
 ## Who are we
 
-PHE3ID is a research team of the Centre International de Recherche en Infectiologie of Lyon, FR. We focus or understanding and combating antimicrobial resistance using information methods.
+PHE3ID is a research team of the [Centre International de Recherche en Infectiologie](https://ciri.ens-lyon.fr/) of Lyon, FR. We focus or understanding and combating antimicrobial resistance using information methods.
 
-## Active members
+## Active coding members
 
 - [Jean-Philippe Rasigade](https://loop.frontiersin.org/people/358918/overview), MD-PhD. Team head.
 - Mélanie Colomb-Cotinat, PharmD. Lead epidemiologist.
@@ -24,6 +24,12 @@ data relevant to antimicrobial resistance at the local scale of the Lyon Metropo
 ## Involvement in other projects
 
 [**ResTolTB**](https://anr.fr/Project-ANR-22-CE15-0027) investigates the roles and dynamics of genetically encoded drug tolerance in drug resistance emergence in Mycobacterium tuberculosis
+
+## Alumni coding members
+
+- Florian Peron
+- Julie Teresa Shapiro
+- Anaïs Barray
 
 <!--
 
