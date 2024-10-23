@@ -4,7 +4,7 @@ PHE3ID is a research team of the Centre International de Recherche en Infectiolo
 
 ## Active members
 
-- Jean-Philippe Rasigade, MD-PhD. Team head.
+- [Jean-Philippe Rasigade](https://loop.frontiersin.org/people/358918/overview), MD-PhD. Team head.
 - Mélanie Colomb-Cotinat, PharmD. Lead epidemiologist.
 - Natacha Lenuzza, PhD. Applied mathematicien, research engineer.
 - Aurélie Fischer, Msc. Bioinformatician.
@@ -12,11 +12,14 @@ PHE3ID is a research team of the Centre International de Recherche en Infectiolo
 
 ## Active projects
 
-**ResisTrack**
+[**ResisTrack**](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-44177f4d60/)
+uses multi-scale ecosystem modelling to understand the emergence and diffusion of antimicrobial resistance in hospitals.
 
-**EpiTrack**
+[**EpiTrack**](https://presse.bpifrance.fr/arpege-obtient-un-financement-public-de-pres-de-9-me-pour-combattre-lantibioresistance) 
+uses evolutionary-informed algorithms to scan hospital-wide microbiology diagnoses and detect epidemic clusters in real-time
 
-**COMEDIA-Lyon**
+[**COMEDIA-Lyon**](https://www.shape-med-lyon.fr/projets-structurants-vague-1/comedia-lyon/) is a One Health initiative to gather and analyze fine-grained
+data relevant to antimicrobial resistance at the local scale of the Lyon Metropolitan Area, France.
 
 ## Involvement in other projects
 
