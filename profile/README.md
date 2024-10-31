@@ -1,5 +1,3 @@
-## Who are we
-
 PHE3ID is a research team of the [Centre International de Recherche en Infectiologie](https://ciri.ens-lyon.fr/) of Lyon, FR. We focus or understanding and combating antimicrobial resistance using information methods.
 
 ## Active coding members
