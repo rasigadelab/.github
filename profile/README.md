@@ -1,4 +1,4 @@
-PHE3ID is a research team of the [Centre International de Recherche en Infectiologie](https://ciri.ens-lyon.fr/) of Lyon, FR. We focus or understanding and combating antimicrobial resistance using information methods.
+PHE3ID is a research team of the [Centre International de Recherche en Infectiologie](https://ciri.ens-lyon.fr/) of Lyon, FR. We focus on understanding and combating antimicrobial resistance using information methods.
 
 ## Active coding members
 
@@ -11,10 +11,11 @@ PHE3ID is a research team of the [Centre International de Recherche en Infectiol
 ## Active projects
 
 [**ResisTrack**](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-44177f4d60/)
-uses multi-scale ecosystem modelling to understand the emergence and diffusion of antimicrobial resistance in hospitals.
+uses multi-scale ecosystem modelling to understand the emergence and diffusion of antimicrobial resistance in hospitals. ResisTrack makes heavy use of
+the [msevol](https://github.com/rasigadelab/msevol) ecosystem simulator.
 
 [**EpiTrack**](https://presse.bpifrance.fr/arpege-obtient-un-financement-public-de-pres-de-9-me-pour-combattre-lantibioresistance) 
-uses evolutionary-informed algorithms to scan hospital-wide microbiology diagnoses and detect epidemic clusters in real-time
+uses evolutionary-informed algorithms to scan hospital-wide microbiology diagnoses and detect epidemic clusters in real-time.
 
 [**COMEDIA-Lyon**](https://www.shape-med-lyon.fr/projets-structurants-vague-1/comedia-lyon/) is a One Health initiative to gather and analyze fine-grained
 data relevant to antimicrobial resistance at the local scale of the Lyon Metropolitan Area, France.
@@ -25,9 +26,9 @@ data relevant to antimicrobial resistance at the local scale of the Lyon Metropo
 
 ## Alumni coding members
 
-- Florian Peron
-- Julie Teresa Shapiro
-- Anaïs Barray
+- [Florian Peron](https://fr.linkedin.com/in/florianprn)
+- [Julie Teresa Shapiro](https://www.jtshapiro.com/)
+- [Gabriel Carvalho](https://fr.linkedin.com/in/gabriel-carvalho-phd-5089344b)
 
 <!--
 
