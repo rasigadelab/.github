@@ -3,6 +3,7 @@ PHE3ID is a research team of the [Centre International de Recherche en Infectiol
 ## Active coding members
 
 - [Jean-Philippe Rasigade](https://loop.frontiersin.org/people/358918/overview), MD-PhD. Team head.
+- [Malik Talbi](https://fr.linkedin.com/in/malik-talbi-44013710b). Bioinformatician, data engineer.
 - Mélanie Colomb-Cotinat, PharmD. Lead epidemiologist.
 - Natacha Lenuzza, PhD. Applied mathematicien, research engineer.
 - Aurélie Fischer, Msc. Bioinformatician.
@@ -28,7 +29,6 @@ data relevant to antimicrobial resistance at the local scale of the Lyon Metropo
 - [Florian Peron](https://fr.linkedin.com/in/florianprn)
 - [Julie Teresa Shapiro](https://www.jtshapiro.com/)
 - [Gabriel Carvalho](https://fr.linkedin.com/in/gabriel-carvalho-phd-5089344b)
-- [Malik Talbi](https://fr.linkedin.com/in/malik-talbi-44013710b)
 
 <!--
 
